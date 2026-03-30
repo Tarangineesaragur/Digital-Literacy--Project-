@@ -1,0 +1,53 @@
+Task 5: Cybercrime Awareness Case Study & Prevention 
+
+Part A – Case Study: Phishing 
+
+Phishing is a fraudulent practice where attackers masquerade as a reputable entity to steal sensitive data such as login credentials or financial details. This crime typically happens in a four-step process: 
+
+First, the Lure involves the attacker sending a deceptive email or SMS (Smishing) that appears to be from a trusted bank, university, or government agency. Second, the Hook creates a sense of urgency, claiming an account is "locked" or a "refund" is waiting, forcing the victim to act without thinking. Third, the Exploit occurs when the victim clicks a link leading to a cloned, fake website designed to look identical to a legitimate portal. Finally, the Theft is completed when the victim enters their credentials, which are captured instantly by the attacker. 
+
+Target Audience: College students and elderly individuals are primary targets. Students are often targeted with fake "scholarship" or "internship" links, while the elderly are targeted with "banking security" scares. 
+
+Consequences: The results are devastating, including identity theft, unauthorized financial draining, and the potential for the victim's accounts to be used as a botnet to spread further malware to their contacts. This can lead to both financial ruin and long-term reputational damage. 
+
+ 
+
+Part B – Prevention Checklist 
+
+Stay Safe Online: Actionable Tips 
+
+Enable Multi-Factor Authentication (MFA): Always use an authenticator app for an extra layer of security on all student portals. 
+
+Check the URL: Before entering data, ensure the site is https:// and the domain name is spelled correctly (e.g., google.com vs g00gle.com). 
+
+Verify UPI Requests: Never enter your UPI PIN to receive money; PINs are only required for sending or authorizing payments. 
+
+Official Banking Apps: Only use official UPI apps and never share your PIN via phone calls or SMS. 
+
+Limit Public Wi-Fi: Avoid accessing bank accounts or sensitive portals on public or campus Wi-Fi without a secure VPN. 
+
+Secure Your SIM: Set a SIM card PIN to prevent "SIM swapping" attacks that bypass 2FA. 
+
+Report Immediately: If scammed, report the transaction to your bank and the authorities within the "Golden Hour." 
+
+Update Software: Keep your OS and security apps updated to patch known vulnerabilities. 
+
+Reporting Channels: 
+
+National Cyber Crime Portal: [suspicious link removed] 
+
+National Helpline Number: 1930 
+
+ 
+
+ 
+
+ 
+
+Personal Reflection:- 
+
+The most jarring revelation of this research was the realization that the most vulnerable "operating system" isn't Windows or Linux-it’s the human mind. The sophistication of Social Engineering lies in its ability to weaponize biological imperatives: our response to authority, our fear of loss, and our desire to be helpful. I previously viewed cybersecurity as a digital arms race of encryption and firewalls, but I now see it as a psychological battlefield where attackers exploit cognitive biases rather than just software bugs. 
+
+Even a tech-savvy individual can succumb to "Amigdala Hijacking"-a state where high-pressure tactics bypass the prefrontal cortex, leading to a breakdown in critical thinking. Recognizing this vulnerability has forced a fundamental shift in my digital behavior. My previous habit of "quick-clicking" was a liability born of convenience. By adopting a "Zero Trust" framework for all unsolicited communication, I am implementing a human-layer firewall. This means verifying the "Who" and the "Why" through out-of-band channels before engaging with the "What." In a landscape where trust is a currency, I’ve learned that skepticism isn't just a trait-it’s a prerequisite for security. 
+
+ 
